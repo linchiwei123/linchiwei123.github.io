@@ -1,4 +1,6 @@
-一 注册<br/>https://www.pdzheo.com/join/33063084<br/>复制到浏览器打开，填写注册邮箱<br/><br/><br/>二 如何切换苹果ID并下载<br/>1<br/>第一步，点击App Store首页右上角头像<br/><br/><br/>
+一 注册<br/><br/>欧意OKX：https://www.pdzheo.com/join/33063084<br/>
+币安Binance：https://accounts.maxweb.black/register?ref=CHI88<br/><br/>
+复制到浏览器打开，注册好了再看教程。<br/><br/><br/>二 如何切换苹果ID并下载<br/>1<br/>第一步，点击App Store首页右上角头像<br/><br/><br/>
 ![image](https://github.com/linchiwei123/linchiwei123.github.io/blob/main/crypto_pics/AppMain.jpg)
 <br/><br/>2<br/>第二步，点击退出登录，重新输入Apple ID及密码。<br/><br/>
 ![image](https://github.com/linchiwei123/linchiwei123.github.io/blob/main/crypto_pics/AppRe.jpg)

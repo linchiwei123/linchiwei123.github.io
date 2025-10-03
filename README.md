@@ -6,8 +6,8 @@
 复制到浏览器打开，注册好了再看教程。
 
 二 下载
-<br/>（1）安卓直接下载地址<br/>币安：https://download.bnapp.cc/pack/BNApp64.apk<br/>
-欧意：https://download.prhci.com/upgradeapp/android.apk
+<br/>（1）安卓直接下载地址<br/>币安：<https://download.bnapp.cc/pack/BNApp64.apk><br/>
+欧意：<https://download.prhci.com/upgradeapp/android.apk>
 <br/><br/>（2） 如何切换苹果ID并下载<br/>1<br/>第一步，点击App Store首页右上角头像<br/><br/><br/>
 ![image](crypto_pics/AppMain.jpg)
 <br/><br/>2<br/>第二步，点击退出登录，重新输入Apple ID及密码。<br/><br/>

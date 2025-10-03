@@ -2,7 +2,7 @@
 
 
 一 注册<br/><br/>
-币安Binance：https://accounts.maxweb.black/register?ref=CHI88<br/>欧意OKX：https://www.pdzheo.com/join/33063084<br/><br/>
+币安Binance：<https://accounts.maxweb.black/register?ref=CHI88><br/>欧意OKX：<https://www.pdzheo.com/join/33063084><br/><br/>
 复制到浏览器打开，注册好了再看教程。
 
 二 下载
